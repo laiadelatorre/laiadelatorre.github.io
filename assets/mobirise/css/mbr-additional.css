@@ -2665,27 +2665,6 @@ a {
 .cid-ttbrvig6Yt .mbr-section-title {
   color: #232323;
 }
-.cid-ttboficTEy {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/captura2final-1319x1076.png");
-}
-.cid-ttboficTEy .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-@media (min-width: 992px) {
-  .cid-ttboficTEy form {
-    width: 50%;
-  }
-}
-.cid-ttboficTEy form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ttboficTEy form .mbr-section-btn .btn {
-  width: 100%;
-}
 .cid-ttbofitzyh {
   z-index: 1000;
   width: 100%;
@@ -3024,6 +3003,27 @@ a {
     width: 175%;
     max-width: calc(100% + 2rem);
     left: -1rem;
+  }
+}
+.cid-tvOV0Lz84M {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/captura2final-1319x1076.png");
+}
+.cid-tvOV0Lz84M .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-tvOV0Lz84M form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-tvOV0Lz84M form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-tvOV0Lz84M form .mbr-section-btn .btn {
+    width: 100%;
   }
 }
 .cid-ttbvPXV5Tb {
